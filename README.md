@@ -14,6 +14,6 @@ From Package Manager Console in VS
 - “update-database”
 
 References:
-https://www.c-sharpcorner.com/article/authentication-and-authorization-in-asp-net-core-web-api-with-json-web-tokens/
-https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity-api-authorization?view=aspnetcore-8.0
-https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/01-authorization
+* https://www.c-sharpcorner.com/article/authentication-and-authorization-in-asp-net-core-web-api-with-json-web-tokens/
+* https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity-api-authorization?view=aspnetcore-8.0
+* https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/01-authorization
